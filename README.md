@@ -24,7 +24,6 @@ I split the images and lables `.txt` in training and validation sets
 ### 1.5 `dataset.yaml` file
 The dataset´s configuration file is written. It includes the path to the different folders and the names that receive the classes. In this case, only one class **0: airplane**
 
-### 📂 Dataset available [here](https://www.kaggle.com/datasets/mgarch/airplane-detection-dataset)
 
 ## 2. Detecting airplanes with YOLO
 YOLOv8 is a real-time object detection algorithm based on convolutional neural networks developed by [Ultralytics](https://github.com/ultralytics/ultralytics).
