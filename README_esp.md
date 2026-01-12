@@ -25,7 +25,6 @@ Divido las imágenes y etiquetas `.txt` en entrenamiento y validación
 ### 1.5 Archivo `dataset.yaml`
 Se escribe el archivo de configuración del conjunto de datos que incluye la ruta a las diferentes carpetas y los nombres que reciben las clases. En este caso una sola clase **0: airplane**
 
-### 📂 Conjunto de datos disponible [aquí](https://www.kaggle.com/datasets/mgarch/airplane-detection-dataset)
 
 ## 2. Detectar aviones con YOLO
 YOLOv8  es un algoritmo de detección de objetos en tiempo real basado en redes neuronales convolucionales desarrollado por [Ultralytics](https://github.com/ultralytics/ultralytics)
